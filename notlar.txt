@@ -1,0 +1,10 @@
+ibrahim konuk	39	79 
+erbay 	altuk	37	64
+tuna	kara	48	54
+fatih	berber	24	43
+cem	çakýr	45	43
+cem	moralý	34	45
+ahmet 	kaþif	23	34
+ali	bayrak	34	85
+
+			 
